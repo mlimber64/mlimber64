@@ -56,7 +56,7 @@ Lavoro con team Agile (Scrum/Kanban) e ho a cuore la qualità del codice: test u
 
 **DevOps e strumenti**
 
-<img src="https://skillicons.dev/icons?i=docker,jenkins,azure,grafana,git,github,postman,jira,figma&perline=10" alt="DevOps e strumenti" />
+<img src="https://skillicons.dev/icons?i=docker,jenkins,azure,grafana,git,github,maven,postman,figma&perline=10" alt="DevOps e strumenti" />
 
 **Mobile (progetti personali)**
 
