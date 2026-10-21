@@ -1,4 +1,4 @@
-﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Limber%20Mendoza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Sviluppatore%20Full%20Stack&descSize=22&descAlignY=60&animation=fadeIn" alt="Limber Mendoza - Sviluppatore Full Stack" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Limber%20Mendoza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Sviluppatore%20Full%20Stack&descSize=22&descAlignY=60&animation=fadeIn" alt="Limber Mendoza - Sviluppatore Full Stack" />
 
 <div align="center">
 
@@ -66,6 +66,27 @@ Lavoro con team Agile (Scrum/Kanban) e ho a cuore la qualità del codice: test u
 
 <br/>
 
+## ⭐ Progetto principale: Gestione Ordini
+
+<a href="https://github.com/mlimber64/gestione-ordini">
+  <img width="100%" src="https://raw.githubusercontent.com/mlimber64/gestione-ordini/main/docs/img/cruscotto.png" alt="Gestione Ordini: cruscotto con ordini per stato, scorte basse e attività in diretta" />
+</a>
+
+**[gestione-ordini](https://github.com/mlimber64/gestione-ordini)** è un sistema di gestione degli ordini a microservizi, costruito da zero con milestone, pull request e decisioni documentate (14 ADR). Si avvia con un solo comando Docker.
+
+- 🔒 **Riserva atomica delle giacenze**: 20 richieste simultanee per 5 pezzi producono esattamente 5 ordini, verificato con test di concorrenza
+- 📨 **Transactional outbox su Kafka**: nessun evento perso anche con Kafka spento, nessun evento fantasma dopo un rollback
+- ⚡ **Notifiche in tempo reale** con un servizio reattivo (WebFlux, R2DBC), SSE con ripresa senza buchi e consumer idempotente
+- 🧱 **Architettura esagonale** verificata con ArchUnit, copertura dei test oltre il 90% sui servizi, analisi con SonarCloud
+- 📊 **Prometheus e Grafana** con una dashboard già pronta
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,kafka,docker,grafana,githubactions&perline=9" alt="Java, Spring Boot, Angular, TypeScript, PostgreSQL, Kafka, Docker, Grafana, GitHub Actions" />
+
+</div>
+
+<br/>
 ## 🚀 Progetti in evidenza
 
 <div align="center">
