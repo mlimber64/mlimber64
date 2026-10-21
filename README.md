@@ -79,10 +79,6 @@ Sviluppatore FullStack con esperienza nella progettazione e nello sviluppo di **
 
 <img src="https://streak-stats.demolab.com?user=mlimber64&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mlimber64&theme=tokyo-night&hide_border=true&area=true" alt="Grafico delle attività" />
-
 </div>
 
 <br/>
