@@ -1,69 +1,97 @@
-﻿<h1 align="center">Ciao, sono Limber Mendoza 👋</h1>
+﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Limber%20Mendoza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Sviluppatore%20FullStack&descSize=22&descAlignY=60&animation=fadeIn" alt="Limber Mendoza - Sviluppatore FullStack" />
 
-<p align="center">
-  <b>Sviluppatore FullStack</b> · Salerno, Italia 🇮🇹
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/limber-mendoza-tolentino-852771142/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mlimber64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<a href="https://github.com/mlimber64">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=App+mobile+multipiattaforma+con+Flutter;API+REST+con+.NET+e+Java+Spring+Boot;Applicazioni+web+con+Angular+e+Vue;Dal+backend+al+frontend%2C+end-to-end" alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+📍 Salerno, Italia 🇮🇹 &nbsp;·&nbsp; 💼 Aperto a nuove opportunità
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/limber-mendoza-tolentino-852771142/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mlimber64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=mlimber64&label=Visite+al+profilo&color=2c5364&style=for-the-badge" alt="Visite al profilo" />
+
+</div>
+
+<br/>
 
 ## 👨‍💻 Chi sono
 
-Sviluppatore FullStack con esperienza nello sviluppo di applicazioni mobile, API REST e applicazioni web. Mi occupo dell'intero ciclo di sviluppo: dal backend al frontend, fino alle app mobile multipiattaforma con Flutter.
+Sviluppatore FullStack con esperienza nella progettazione e nello sviluppo di **applicazioni mobile**, **API REST** e **applicazioni web**. Seguo l'intero ciclo di sviluppo, dal backend al frontend, fino alle app multipiattaforma con **Flutter**.
 
-Vivo a Salerno e sono aperto a nuove opportunità e collaborazioni.
+- 📱 Sviluppo app mobile per Android e iOS con **Flutter** e **Dart**
+- ⚙️ Creo servizi backend con **ASP.NET Core** e **Spring Boot**
+- 🌐 Realizzo interfacce web con **Angular** e **Vue**
+- 🇮🇹 Vivo a Salerno e sono disponibile per nuove collaborazioni
 
-## 🛠️ Tecnologie
+<br/>
+
+## 🛠️ Stack tecnologico
+
+<div align="center">
 
 **Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=10" alt="Mobile" />
 
 **Backend**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,laravel&perline=10" alt="Backend" />
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,angular,vue,html,css&perline=10" alt="Frontend" />
 
 **Strumenti**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github&perline=10" alt="Strumenti" />
+
+</div>
+
+<br/>
 
 ## 🚀 Progetti in evidenza
 
-| Progetto | Descrizione | Stack |
-|---|---|---|
-| [app-reproductor-taki](https://github.com/mlimber64/app-reproductor-taki) | Lettore musicale locale per dispositivi mobili | Flutter · Dart |
-| [app-multidiomas](https://github.com/mlimber64/app-multidiomas) | App per imparare lingue diverse a partire dalla propria lingua madre | Flutter · Dart |
-| [app-skincare-detective](https://github.com/mlimber64/app-skincare-detective) | App mobile per l'analisi dei prodotti skincare | Flutter · Dart |
-| [peru-eterno](https://github.com/mlimber64/peru-eterno) | App mobile dedicata alla cultura peruviana | Flutter · Dart |
+<div align="center">
+
+<a href="https://github.com/mlimber64/app-reproductor-taki"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mlimber64&repo=app-reproductor-taki&theme=tokyonight&hide_border=true" alt="app-reproductor-taki" /></a>
+<a href="https://github.com/mlimber64/app-multidiomas"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mlimber64&repo=app-multidiomas&theme=tokyonight&hide_border=true" alt="app-multidiomas" /></a>
+<a href="https://github.com/mlimber64/app-skincare-detective"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mlimber64&repo=app-skincare-detective&theme=tokyonight&hide_border=true" alt="app-skincare-detective" /></a>
+<a href="https://github.com/mlimber64/peru-eterno"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mlimber64&repo=peru-eterno&theme=tokyonight&hide_border=true" alt="peru-eterno" /></a>
+
+</div>
+
+<br/>
 
 ## 📊 Statistiche GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mlimber64&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlimber64&layout=compact&hide_border=true" alt="Linguaggi più usati" />
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mlimber64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiche GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlimber64&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguaggi più usati" />
 
-<p align="center">📫 Scrivimi a <a href="mailto:mlimber64@gmail.com">mlimber64@gmail.com</a></p>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=mlimber64&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mlimber64&theme=tokyo-night&hide_border=true&area=true" alt="Grafico delle attività" />
+
+</div>
+
+<br/>
+
+## 📫 Contatti
+
+Ti interessa collaborare o vuoi saperne di più sui miei progetti? Scrivimi:
+
+- ✉️ [mlimber64@gmail.com](mailto:mlimber64@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/limber-mendoza-tolentino-852771142/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" alt="" />
